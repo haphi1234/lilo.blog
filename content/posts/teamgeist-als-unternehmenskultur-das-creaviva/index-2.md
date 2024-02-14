@@ -3,14 +3,15 @@ title = "Teamgeist als Unternehmenskultur, das Creaviva!"
 date = "2024-02-14"
 draft = false
 pinned = true
+image = "screenshot-2024-02-14-134233-min.png"
 +++
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +51,9 @@ pinned = true
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +632,9 @@ pinned = true
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -662,7 +663,7 @@ pinned = true
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -671,10 +672,6 @@ pinned = true
 Das Creaviva, ein Ort für Künstler und Kunstliebhaber. Aber ist das Creaviva auch etwas für Firmen, also z.B. im Bereich Teambildung? Dies kann mittlerweile mit ja beantwortet werden. Teamgeist ist im Paul Klee und Creaviva Unternehmen gelebte Kultur. Das Creaviva bietet schon lange Kurse für Teambildung an. Egal ob für die Post, die Bundesverwaltung oder nur ein kleines Architekturbüro.
 
 Philo Wolf
-
- 
-
-![](screenshot-2024-02-14-134233-min.png)
 
 Im Paul Klee Zentrum, welches von Renzo Piano entworfen worden war, einem berühmten Architekten, ging ich die Treppe hinunter; dorthin wo das Creaviva sich befindet. Ich sah bereits zahlreiche Räume, respektive Ateliers, in denen Menschen am Malen, Kleben, Zeichnen und Bauen waren. Meine Neugierde wurde geweckt. Der erste Eindruck war überwältigend. Ich habe noch nie so viel Menschen zusammen etwas Kreatives machen gesehen. Es schien so, als wären die Köpfe der Teams eine Art Denkblase. Um mir einige Fragen zu diesem Bild beantworten zu können, liess ich mir einen Termin für ein Interview mit der Kursleiterin des Creaviva; Katja Lang, geben, einer älteren, sehr netten Frau. Um die Hauptaussage des Interviews von Frau Lang kurz zu erläutern; das Creaviva bietet verschiedene Themengebundene Kurse (z.B. für HR-Verantwortliche) in verschiedenen Bereichen an, unter anderem für Teambildung und Teamfähigkeit.
 
@@ -714,13 +711,7 @@ Da Creaviva durch ihre Philosophie ganz bestimmte Kriterien erfüllt, erhielt es
 
 Die Kurse werden auf die einzelnen Firmen individuell vorbereitet. Das Creaviva besteht ca. aus 10 Kursleiter/innen und jeder von ihnen bringt seinen eigenen Kunststil mit. Somit gestalte jeder Workshopleitende seinen Workshop anders. Das führt zu ganz verschiedenen Produkten. Die Kurse werden mit einem bestimmten Konzept vorbereitet, das ist bei allen gleich. Das Konzept sollte Bezug auf die momentanen Ausstellungen haben. Integriert in den Workshop ist eine Führung durch die dementsprechenden Ausstellungen. Es wird also erklärt, was man im Workshop erschaffen wird, und wird verglichen mit den Ausstellungsstücken.
 
- 
-
 ![](screenshot-2024-02-14-134244-1-.png)
-
-
-
-
 
 **Das Produkt – speziell für jede Firma**
 
@@ -736,16 +727,8 @@ Einer von vielen Mottos von Creaviva ist:          
 
 «Gedanken gestalten, Botschaften visualisieren» Ich persönlich finde den Spruch sehr interessant und habe direkt nachgefragt. Das Motto sei daraus entstanden, dass Kunden gekommen sind und als Kursthema z.B. Sorgfalt oder Gemeinschaft gewählt haben. Die jeweiligen Kursleiter/innen nehmen es auf, beleuchten es von verschiedenen Seiten und visualisieren es.
 
-«Wir machen aus den Wörtern, die sie mitbringen, eine Visualisierung», fügte Frau Lang abschliessend hinzu, «die sie dann das ganze Jahr durch als Begleitung aufhängen können.»
-
- 
+«Wir machen aus den Wörtern, die sie mitbringen, eine Visualisierung», fügte Frau Lang abschliessend hinzu, «die sie dann das ganze Jahr durch als Begleitung aufhängen können.
 
 ![](screenshot-2024-02-14-134304.png)
-
- 
-
- 
-
- 
 
 <!--EndFragment-->
