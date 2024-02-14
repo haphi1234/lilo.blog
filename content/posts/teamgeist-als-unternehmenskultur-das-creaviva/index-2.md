@@ -2,7 +2,7 @@
 title = "Teamgeist als Unternehmenskultur, das Creaviva!"
 date = "2024-02-14"
 draft = false
-pinned = false
+pinned = true
 +++
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
