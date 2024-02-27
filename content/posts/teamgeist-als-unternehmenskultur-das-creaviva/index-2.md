@@ -3,15 +3,15 @@ title = "Teamgeist als Unternehmenskultur, das Creaviva!"
 date = "2024-02-14"
 draft = false
 pinned = true
-image = ""
+image = "screenshot-2024-02-14-134233-min.png"
 +++
-<!--\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image = ""
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image = ""
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -663,19 +663,15 @@ image = ""
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\[endif]-->
 
 <!--StartFragment-->
-
-**Teamgeist als Unternehmenskultur, das Creaviva!**
 
 **«Teamentwicklung fördern, kreatives Vergnügen mit Niveau»**
 
 Das Creaviva, ein Ort für Künstler und Kunstliebhaber. Aber ist das Creaviva auch etwas für Firmen, also z.B. im Bereich Teambildung? Dies kann mittlerweile mit ja beantwortet werden. Teamgeist ist im Paul Klee und Creaviva Unternehmen gelebte Kultur. Das Creaviva bietet schon lange Kurse für Teambildung an. Egal ob für die Post, die Bundesverwaltung oder nur ein kleines Architekturbüro.
 
 Philo Wolf
-
-![](content/posts/teamgeist-als-unternehmenskultur-das-creaviva/screenshot-2024-02-14-134233-min.png)
 
 Im Paul Klee Zentrum, welches von Renzo Piano entworfen worden war, einem berühmten Architekten, ging ich die Treppe hinunter; dorthin wo das Creaviva sich befindet. Ich sah bereits zahlreiche Räume, respektive Ateliers, in denen Menschen am Malen, Kleben, Zeichnen und Bauen waren. Meine Neugierde wurde geweckt. Der erste Eindruck war überwältigend. Ich habe noch nie so viel Menschen zusammen etwas Kreatives machen gesehen. Es schien so, als wären die Köpfe der Teams eine Art Denkblase. Um mir einige Fragen zu diesem Bild beantworten zu können, liess ich mir einen Termin für ein Interview mit der Kursleiterin des Creaviva; Katja Lang, geben, einer älteren, sehr netten Frau. Um die Hauptaussage des Interviews von Frau Lang kurz zu erläutern; das Creaviva bietet verschiedene Themengebundene Kurse (z.B. für HR-Verantwortliche) in verschiedenen Bereichen an, unter anderem für Teambildung und Teamfähigkeit.
 
@@ -690,6 +686,12 @@ Teambildung ist ein sozialer und pädagogischer Aspekt. Allerdings hat das nicht
 Kunst ist, laut Frau Lang, genau das Richtige für eine solche Teamförderung. Die Kunst fördert das Dasein als Team, man ist nicht allein im Atelier, sondern ein Teil von vielen und kreiert zusammen etwas, sei es ein Bild oder eine Statue. Man muss lernen miteinander zu kommunizieren, auch wenn das vielleicht in der Vergangenheit schwierig war. Man kommt nicht darum herum.
 
 Mit Gefühlen verbundene Botschaften werden nicht vergessen. Wer emotional an einem Prozess beteiligt ist, entwickelt Verständnis, Identifikation und Loyalität. Als Ergänzung eines Seminars, einem Strategieworkshop oder zur Verinnerlichung wichtiger Botschaften eines Meetings eignen sich Teamworkshops im Creaviva hervorragend für die bildhafte Umsetzung von Ideen, für die nachhaltige Verankerung von Erkenntnissen oder Claims. Das vom Team visualisierte Ergebnis wird greifbar.
+
+
+
+
+
+![](screenshot-2024-02-14-134304.png "Helle Arbeitswelt")
 
 **Die Philosophie dahinter**
 
@@ -711,28 +713,35 @@ Der Besuch im Atelier ist ein Dank für ein erfolgreiches Geschäftsjahr, ein We
 
 Da Creaviva durch ihre Philosophie ganz bestimmte Kriterien erfüllt, erhielt es die Auszeichnung «Home of 21th Century Education». Das ist ein Label, das an Museen verliehen wird. Dazu muss das Museum wie schon gesagt ganz bestimmte Kriterien erfüllen. Es muss mit z.B. einer Führung oder einem Kurs alle Sinne ansprechen, also nicht nur Auge und Ohr, sondern auch den Geruchssinn oder den Geschmackssinn. Es geht hier um Inklusion, es haben alle einen Zugang zu Kunst, egal mit welchem Hintergrund und welche Voraussetzungen sie mitbringen. Es geht darum alle Altersgruppen anzusprechen. Es sollen Techniken sein, die jedermann anspricht. Mitunter einer dieser Techniken ist das Arbeiten mit digitalen Medien, z.B. dem iPad.
 
+
+
+{{<box>}}
+
+
+<!--StartFragment-->
+
+**Infokasten:**
+
+Wo: Kindermuseum Creaviva, Monument im Fruchtland 3, 3006 Bern
+
+Wer: Katja Lang, Kursleiterin Creaviva
+
+Welche Kurse: Offenes Atelier, Ferienkurse für Kinder/Erwachsene, Firmenveranstaltungen, Kurse für Schulen, Geburtstagspartys, Fünfliber Werkstatt, Führungen durch die Ausstellungen
+
+Website: [www.creaviva-zpk.org](http://www.creaviva-zpk.org)
+
+Öffnungszeiten: Dienstag – Freitag / 09:45 – 12:00 und 14:00 – 17:00
+
+<!--EndFragment-->
+
+{{</box>}}
+
+ 
+
 **Die Vorbereitung der Kurse**
 
 Die Kurse werden auf die einzelnen Firmen individuell vorbereitet. Das Creaviva besteht ca. aus 10 Kursleiter/innen und jeder von ihnen bringt seinen eigenen Kunststil mit. Somit gestalte jeder Workshopleitende seinen Workshop anders. Das führt zu ganz verschiedenen Produkten. Die Kurse werden mit einem bestimmten Konzept vorbereitet, das ist bei allen gleich. Das Konzept sollte Bezug auf die momentanen Ausstellungen haben. Integriert in den Workshop ist eine Führung durch die dementsprechenden Ausstellungen. Es wird also erklärt, was man im Workshop erschaffen wird, und wird verglichen mit den Ausstellungsstücken.
 
-![](content/posts/teamgeist-als-unternehmenskultur-das-creaviva/screenshot-2024-02-14-134244-1-.png)
-
-**Das Produkt – speziell für jede Firma**
-
-Bei den Workshops entsteht, ganz auf Wunsch der Teams, ein Produkt, das natürlich von Team zu Team sehr verschieden ist und persönlich erscheint, oder der Fokus wird auf das eigentliche Thema, gerichtet, die Teambildung. Unter einem Produkt kann man sich zum Beispiel ein Bild für den Eingangsbereich vorstellen. Für ein solchen Wunsch schaut sich das Creaviva erstmal den Ort für das Produkt an, zu Beispiel farbliche Anpassung, um dies im Kurs berücksichtigen zu können. Dieses Produkt ist meistens sehr abstrakt, da das Creaviva keinen Wert auf eine naturgetreue Darstellung hat.
-
-**Individuelle Kurse**
-
-Die Kurse richten sich nicht an bestimmte Firmen, sondern sind für alle Institutionen bestimmt. Es geht von der Post bis zur SBB, von Arztgemeinschaft bis hin zum Büro und von kleinen bis zu grossen Firmen.
-
-Auch die Länge der Kurse ist von Firma zu Firma verschieden, im Rahmen von 2-3 Stunden.
-
-Einer von vielen Mottos von Creaviva ist:          
-
-«Gedanken gestalten, Botschaften visualisieren» Ich persönlich finde den Spruch sehr interessant und habe direkt nachgefragt. Das Motto sei daraus entstanden, dass Kunden gekommen sind und als Kursthema z.B. Sorgfalt oder Gemeinschaft gewählt haben. Die jeweiligen Kursleiter/innen nehmen es auf, beleuchten es von verschiedenen Seiten und visualisieren es.
-
-«Wir machen aus den Wörtern, die sie mitbringen, eine Visualisierung», fügte Frau Lang abschliessend hinzu, «die sie dann das ganze Jahr durch als Begleitung aufhängen können.»
-
-![](content/posts/teamgeist-als-unternehmenskultur-das-creaviva/screenshot-2024-02-14-134304.png)
+![](screenshot-2024-02-14-134244-1-.png "Vorbereitung der Kurse")
 
 <!--EndFragment-->
