@@ -3,7 +3,7 @@ title = "Teamgeist als Unternehmenskultur, das Creaviva!"
 date = "2024-02-14"
 draft = false
 pinned = true
-image = "screenshot-2024-02-14-134233-min.png"
+image = ""
 +++
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
@@ -673,6 +673,8 @@ Das Creaviva, ein Ort für Künstler und Kunstliebhaber. Aber ist das Creaviva a
 
 Philo Wolf
 
+![](screenshot-2024-02-14-134233-min.png "In einem Kurs vom Creaviva steht das Teamwork immer an erster Stelle. (25.11.23, Philo)")
+
 Im Paul Klee Zentrum, welches von Renzo Piano entworfen worden war, einem berühmten Architekten, ging ich die Treppe hinunter; dorthin wo das Creaviva sich befindet. Ich sah bereits zahlreiche Räume, respektive Ateliers, in denen Menschen am Malen, Kleben, Zeichnen und Bauen waren. Meine Neugierde wurde geweckt. Der erste Eindruck war überwältigend. Ich habe noch nie so viel Menschen zusammen etwas Kreatives machen gesehen. Es schien so, als wären die Köpfe der Teams eine Art Denkblase. Um mir einige Fragen zu diesem Bild beantworten zu können, liess ich mir einen Termin für ein Interview mit der Kursleiterin des Creaviva; Katja Lang, geben, einer älteren, sehr netten Frau. Um die Hauptaussage des Interviews von Frau Lang kurz zu erläutern; das Creaviva bietet verschiedene Themengebundene Kurse (z.B. für HR-Verantwortliche) in verschiedenen Bereichen an, unter anderem für Teambildung und Teamfähigkeit.
 
 Ich wurde von Frau Lang direkt am Empfang abgeholt und wir betraten eines der Ateliers. Sie sagte mir es sei der Besprechungsraum für ihr Team. Ich führte kurz ein, damit wir ins Gespräch kamen. Meine erste Frage lautete: Was bedeutet der Namen «Creaviva». Ich dachte bislang er bedeutet, Kreatives Leben. Sie hat mir dies aber erwidert, er würde «Kreativität leben» bedeuten, was so viel heisst wie: «Sein Leben kreativ gestalten».
@@ -742,6 +744,6 @@ Website: [www.creaviva-zpk.org](http://www.creaviva-zpk.org)
 
 Die Kurse werden auf die einzelnen Firmen individuell vorbereitet. Das Creaviva besteht ca. aus 10 Kursleiter/innen und jeder von ihnen bringt seinen eigenen Kunststil mit. Somit gestalte jeder Workshopleitende seinen Workshop anders. Das führt zu ganz verschiedenen Produkten. Die Kurse werden mit einem bestimmten Konzept vorbereitet, das ist bei allen gleich. Das Konzept sollte Bezug auf die momentanen Ausstellungen haben. Integriert in den Workshop ist eine Führung durch die dementsprechenden Ausstellungen. Es wird also erklärt, was man im Workshop erschaffen wird, und wird verglichen mit den Ausstellungsstücken.
 
-![](screenshot-2024-02-14-134244-1-.png "Vorbereitung der Kurse")
+![](screenshot-2024-02-14-134244-1-.png "Vor dem Kursbeginn – Die Tische sind für den jeweiligen Kurs vorbereitet. Man startet gemein-sam als Team. (25.11.23, Philo)")
 
 <!--EndFragment-->
