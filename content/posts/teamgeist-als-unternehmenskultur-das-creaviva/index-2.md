@@ -5,13 +5,13 @@ draft = false
 pinned = true
 image = ""
 +++
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image = ""
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image = ""
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -663,7 +663,7 @@ image = ""
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -675,7 +675,7 @@ Philo Wolf
 
 ![](screenshot-2024-02-14-134233-min.png "In einem Kurs vom Creaviva steht das Teamwork immer an erster Stelle. (25.11.23, Philo)")
 
-Im Paul Klee Zentrum, welches von Renzo Piano entworfen worden war, einem berühmten Architekten, ging ich die Treppe hinunter; dorthin wo das Creaviva sich befindet. Ich sah bereits zahlreiche Räume, respektive Ateliers, in denen Menschen am Malen, Kleben, Zeichnen und Bauen waren. Meine Neugierde wurde geweckt. Der erste Eindruck war überwältigend. Ich habe noch nie so viel Menschen zusammen etwas Kreatives machen gesehen. Es schien so, als wären die Köpfe der Teams eine Art Denkblase. Um mir einige Fragen zu diesem Bild beantworten zu können, liess ich mir einen Termin für ein Interview mit der Kursleiterin des Creaviva; Katja Lang, geben, einer älteren, sehr netten Frau. Um die Hauptaussage des Interviews von Frau Lang kurz zu erläutern; das Creaviva bietet verschiedene Themengebundene Kurse (z.B. für HR-Verantwortliche) in verschiedenen Bereichen an, unter anderem für Teambildung und Teamfähigkeit.
+Im Paul Klee Zentrum, welches von dem berühmten Architekten, Renzo Piano, entworfen worden war, ging ich die Treppe hinunter; dorthin wo das Creaviva sich befindet. Ich sah bereits zahlreiche Räume, respektive Ateliers, in denen Menschen am Malen, Kleben, Zeichnen und Bauen waren. Meine Neugierde wurde geweckt. Der erste Eindruck war überwältigend. Ich habe noch nie so viel Menschen zusammen etwas Kreatives machen gesehen. Es schien so, als wären die Köpfe der Teams eine Art Denkblase. Um mir einige Fragen zu diesem Bild beantworten zu können, liess ich mir einen Termin für ein Interview mit der Kursleiterin des Creaviva; Katja Lang, geben, einer älteren, sehr netten Frau. Um die Hauptaussage des Interviews von Frau Lang kurz zu erläutern; das Creaviva bietet verschiedene Themengebundene Kurse (z.B. für HR-Verantwortliche) in verschiedenen Bereichen an, unter anderem für Teambildung und Teamfähigkeit.
 
 Ich wurde von Frau Lang direkt am Empfang abgeholt und wir betraten eines der Ateliers. Sie sagte mir es sei der Besprechungsraum für ihr Team. Ich führte kurz ein, damit wir ins Gespräch kamen. Meine erste Frage lautete: Was bedeutet der Namen «Creaviva». Ich dachte bislang er bedeutet, Kreatives Leben. Sie hat mir dies aber erwidert, er würde «Kreativität leben» bedeuten, was so viel heisst wie: «Sein Leben kreativ gestalten».
 
@@ -683,15 +683,11 @@ Ich sprach vorher von Teambildung und Teamworkshops. Aber wie ist das Creaviva a
 
 **Wieso gerade Kunst?**
 
-Teambildung ist ein sozialer und pädagogischer Aspekt. Allerdings hat das nichts mit Psychologie zu tun, was Frau Lang mir auch erläuterte. Sie seien ja auch keine Psychologinnen und Psychologen, sondern nur Künstler/innen und Zeichenlehrer/innen.
+Teambildung ist ein sozialer und pädagogischer Aspekt. Allerdings hat das nichts mit Psychologie zu tun, was Katja Lang mir auch erläuterte. Sie seien ja auch keine Psychologinnen und Psychologen, sondern nur Künstler/innen und Zeichenlehrer/innen.
 
-Kunst ist, laut Frau Lang, genau das Richtige für eine solche Teamförderung. Die Kunst fördert das Dasein als Team, man ist nicht allein im Atelier, sondern ein Teil von vielen und kreiert zusammen etwas, sei es ein Bild oder eine Statue. Man muss lernen miteinander zu kommunizieren, auch wenn das vielleicht in der Vergangenheit schwierig war. Man kommt nicht darum herum.
+Kunst ist, laut Katja Lang, genau das Richtige für eine solche Teamförderung. Die Kunst fördert das Dasein als Team, man ist nicht allein im Atelier, sondern ein Teil von vielen und kreiert zusammen etwas, sei es ein Bild oder eine Statue. Man muss lernen miteinander zu kommunizieren, auch wenn das vielleicht in der Vergangenheit schwierig war. Man kommt nicht darum herum.
 
 Mit Gefühlen verbundene Botschaften werden nicht vergessen. Wer emotional an einem Prozess beteiligt ist, entwickelt Verständnis, Identifikation und Loyalität. Als Ergänzung eines Seminars, einem Strategieworkshop oder zur Verinnerlichung wichtiger Botschaften eines Meetings eignen sich Teamworkshops im Creaviva hervorragend für die bildhafte Umsetzung von Ideen, für die nachhaltige Verankerung von Erkenntnissen oder Claims. Das vom Team visualisierte Ergebnis wird greifbar.
-
-
-
-
 
 ![](screenshot-2024-02-14-134304.png "Helle Arbeitswelt")
 
@@ -715,10 +711,7 @@ Der Besuch im Atelier ist ein Dank für ein erfolgreiches Geschäftsjahr, ein We
 
 Da Creaviva durch ihre Philosophie ganz bestimmte Kriterien erfüllt, erhielt es die Auszeichnung «Home of 21th Century Education». Das ist ein Label, das an Museen verliehen wird. Dazu muss das Museum wie schon gesagt ganz bestimmte Kriterien erfüllen. Es muss mit z.B. einer Führung oder einem Kurs alle Sinne ansprechen, also nicht nur Auge und Ohr, sondern auch den Geruchssinn oder den Geschmackssinn. Es geht hier um Inklusion, es haben alle einen Zugang zu Kunst, egal mit welchem Hintergrund und welche Voraussetzungen sie mitbringen. Es geht darum alle Altersgruppen anzusprechen. Es sollen Techniken sein, die jedermann anspricht. Mitunter einer dieser Techniken ist das Arbeiten mit digitalen Medien, z.B. dem iPad.
 
-
-
 {{<box>}}
-
 
 <!--StartFragment-->
 
@@ -737,8 +730,6 @@ Website: [www.creaviva-zpk.org](http://www.creaviva-zpk.org)
 <!--EndFragment-->
 
 {{</box>}}
-
- 
 
 **Die Vorbereitung der Kurse**
 
