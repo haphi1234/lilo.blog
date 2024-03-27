@@ -2,7 +2,7 @@
 title = "Interview Reportage Creaviva"
 date = "2024-03-27"
 draft = false
-pinned = false
+pinned = true
 +++
 <!--StartFragment-->
 
